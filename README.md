@@ -1,11 +1,11 @@
-Developed a web-based Multi Disease Detection System using machine learning (ML) techniques.
-Implemented ML techniques: SVM, Logistic Regression, KNN, CNN
-Utilized k-fold cross-validation and Platt Scaling for improved accuracy.
-User-friendly website and mobile application for easy accessibility.
-File upload functionality for data analysis and predictions.
-Accelerated disease detection with a focus on early identification.
-Improved accuracy, precision, and sensitivity in disease diagnosis.
-  
+- Developed a web-based Multi Disease Detection System utilizing machine learning (ML) techniques.
+- Implemented ML techniques: SVM, Logistic Regression, KNN, CNN.
+- Utilized k-fold cross-validation and Platt Scaling for enhanced accuracy.
+- Designed a user-friendly website and mobile application for seamless accessibility.
+- Incorporated file upload functionality for data analysis and predictions.
+- Accelerated disease detection with a primary focus on early identification.
+- Improved accuracy, precision, and sensitivity in disease diagnosis.
+
 Contributions:Improved model precision, accuracy, and sensitivity significantly.Implemented a robust web-based diagnostic system.Utilized metrics like sensitivity, accuracy, reliability, recall, precision, and confusion matrices.
 
 Results:
