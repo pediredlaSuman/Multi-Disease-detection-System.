@@ -45,3 +45,7 @@ Benefits of Real-Time Implementation:
   - Versatility:Adaptable to various diseases and medical scenarios.
   - Scalability:Cloud deployment for handling a large user base.
 
+
+![image](https://github.com/pediredlaSuman/Multi-Disease-detection-System./assets/141764451/70d5d759-69cc-4cc1-99f2-73ad1733b36e)
+
+
